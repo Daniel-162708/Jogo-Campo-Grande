@@ -4,4 +4,8 @@ mortes=0
 roubos=0
 
 while True:
-    
+    print("Aqui perto tem um Mercado, aqui perto também tem uma Loja de Roupa")
+    print("--"*30)
+    print("-Devo ir aonde?"
+          "\n...")
+    per=input("*")
